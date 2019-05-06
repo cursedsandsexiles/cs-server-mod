@@ -1,16 +1,16 @@
 {
 	"name": "Cursed Sands Server Mod",
-	"description": "",
-	"changeNote": "",
+	"description": "itshappening.jpg",
+	"changeNote": "1.0.3\n-fixed missing blueprints on banners",
 	"author": "Cursed Mod Squad",
 	"authorUrl": "https://discordapp.com/invite/SQqma2G",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 1,
+	"versionBuild": 3,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "",
 	"steamVisibility": 2,
 	"folderName": "cs-server-mod",
-	"revisionNumber": 0,
-	"snapshotId": 0
+	"revisionNumber": 128262,
+	"snapshotId": 20873
 }
