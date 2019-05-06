@@ -1,0 +1,24 @@
+1.0.0
+- Added bronze, silver, and gold donation banners
+- Removed Lifeblood Spear healing
+- Reduced Lifeblood Spear damage to 48 and penetration to 0.0855
+- Reduced Obsidian Spear damage to 46
+- Reduced Exceptional Obsidian Spear damage to 47
+- Reduced Flawless Obsidian Spear damage to 48
+- Reduced Serpent-man War Spear damage to 46 and penetration to 0.0765
+- Reduced Exceptional Serpent-man War Spear damage to 47 and penetration to 0.081
+- Reduced Flawless Serpent-man War Spear damage to 48 and penetration to 0.0855
+- Reduced Gavin's Rusty Pike damage to 48 and penetration to 0.0855
+- Reduced Black Dragon Pike damage to 48
+- Reduced The Impaler damage to 48 and penetration to 0.0855
+- Reduced Vaulting Pole damage to 48 and penetration to 0.0855
+- Reduced Dragonbone Spear damage to 48 and penetration to 0.0855
+- Reduced The Staff of Epemitreus damage to 48 and penetration to 0.0855
+
+1.0.1
+- Added Marauder Armors, recipes, and feats
+- Added Silent Legion Helmet of Porting, recipe, and feat
+- Increased The Impaler durability to 2100
+- Warspear of the Black Circle, Gavin's Rusty Pike, Black Dragon Pike, The Impaler, and Vaulting Pole now give a Fragment of Power when disassembled
+- Updated Libeblood Spear descriptor
+- Lifeblood Spear now gives a Fragment of Power and Star Metal when disassembled
