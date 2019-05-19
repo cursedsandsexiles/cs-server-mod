@@ -1,16 +1,16 @@
 {
 	"name": "Cursed Sands Server Mod",
-	"description": "itshappening.jpg",
-	"changeNote": "1.0.3\n-fixed missing blueprints on banners",
+	"description": "https://discordapp.com/invite/SQqma2G",
+	"changeNote": "1.0.5\n- Scroll (Enchantments of the Silent Legion)\n- Marauder Armorers\n- Yasmina Named Thrall\n- bugfixes",
 	"author": "Cursed Mod Squad",
 	"authorUrl": "https://discordapp.com/invite/SQqma2G",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 3,
+	"versionBuild": 5,
 	"bRequiresLoadOnStartup": false,
-	"steamPublishedFileId": "",
-	"steamVisibility": 2,
+	"steamPublishedFileId": "1746638426",
+	"steamVisibility": 1,
 	"folderName": "cs-server-mod",
-	"revisionNumber": 128262,
-	"snapshotId": 20873
+	"revisionNumber": 130640,
+	"snapshotId": 20988
 }

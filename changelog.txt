@@ -20,7 +20,7 @@
 - Added Silent Legion Helmet of Porting, recipe, and feat
 - Increased The Impaler durability to 2100
 - Warspear of the Black Circle, Gavin's Rusty Pike, Black Dragon Pike, The Impaler, and Vaulting Pole now give a Fragment of Power when disassembled
-- Updated Libeblood Spear descriptor
+- Updated Lifeblood Spear descriptor
 - Lifeblood Spear now gives a Fragment of Power and Star Metal when disassembled
 
 1.0.2
@@ -28,3 +28,14 @@
 
 1.0.3
 - Fixed missing blueprints on banners (derp again)
+
+1.0.4
+- Reduced Lifeblood Spear damage to match funcom balance changes
+- Increased Obsidian Spear penetration to 0.0765
+- Increased Exceptional Obsidian Spear penetration to 0.081
+- Increased Flawless Obsidian Spear penetration to 0.0855
+
+1.0.5
+- Created an item 'Scroll (Enchantments of the Silent Legion)' which gives the Enchantments of the Silent Legion feat upon consumption
+- Added new Hyrkanian, Shemite, and Stygian Armorer 3's which are capable of crafting exceptional varrients of the Marauder Armors
+- Added a new named armorer, Yasmina, which is capable of crafting all the flawless varrients of the Marauder Armors
