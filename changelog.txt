@@ -37,5 +37,13 @@
 
 1.0.5
 - Created an item 'Scroll (Enchantments of the Silent Legion)' which gives the Enchantments of the Silent Legion feat upon consumption
-- Added new Hyrkanian, Shemite, and Stygian Armorer 3's which are capable of crafting exceptional varrients of the Marauder Armors
+- Added new Hyrkanian, Shemite, and Stygian Armorer 3's which are capable of crafting exceptional variants of the Marauder Armors
 - Added a new named armorer, Yasmina, which is capable of crafting all the flawless varrients of the Marauder Armors
+
+1.0.6
+- Adjusted category and prerequisites for Enchantments of the Silent Legion feat
+- Added Enchantments of the Silent Legion Scroll to the Dark Library
+- Reduced Acheronian Spear penetration to 0.0765
+- Reduced Exceptional Acheronian Spear penetration to 0.081
+- Reduced Flawless Acheronian Spear penetration to 0.0855
+
