@@ -38,7 +38,7 @@
 1.0.5
 - Created an item 'Scroll (Enchantments of the Silent Legion)' which gives the Enchantments of the Silent Legion feat upon consumption
 - Added new Hyrkanian, Shemite, and Stygian Armorer 3's which are capable of crafting exceptional variants of the Marauder Armors
-- Added a new named armorer, Yasmina, which is capable of crafting all the flawless varrients of the Marauder Armors
+- Added a new named armorer, Yasmina, which is capable of crafting all the flawless variants of the Marauder Armors
 
 1.0.6
 - Adjusted category and prerequisites for Enchantments of the Silent Legion feat
@@ -50,7 +50,11 @@
 1.0.7
 - Increased Lifeblood Spear damage to 48 once again and swapped the model to something a little more fitting
 - Reduced Trident of Dagon damage to 48 and penetration to 0.0855
-- Normalized Warspear of the Black Circle damage to 48
-- Normalized Lemurian Pike damage to 48
 - Tweaked Silent Legion Helmet of Porting descriptor
 - Added Star Metal Donation Banner (thanks Kabi ~~!!)
+
+1.0.8
+- Increased Warspear of the Black Circle damage to 48
+- Increased Lemurian Pike damage to 48
+- Increased Lemurian Sword damage to 48
+- Replaced the Black Dragon Pike's +50 bonus stamina with a +5 grit bonus
