@@ -47,3 +47,10 @@
 - Reduced Exceptional Acheronian Spear penetration to 0.081
 - Reduced Flawless Acheronian Spear penetration to 0.0855
 
+1.0.7
+- Increased Lifeblood Spear damage to 48 once again and swapped the model to something a little more fitting
+- Reduced Trident of Dagon damage to 48 and penetration to 0.0855
+- Normalized Warspear of the Black Circle damage to 48
+- Normalized Lemurian Pike damage to 48
+- Tweaked Silent Legion Helmet of Porting descriptor
+- Added Star Metal Donation Banner (thanks Kabi ~~!!)
