@@ -58,3 +58,8 @@
 - Increased Lemurian Pike damage to 48
 - Increased Lemurian Sword damage to 48
 - Replaced the Black Dragon Pike's +50 bonus stamina with a +5 grit bonus
+
+1.0.9
+- Marauder recipes should now all give and require the correct items
+- Corrected the stats on epic flawless nomad armors
+- Woden sighs
