@@ -1,0 +1,22 @@
+#2967ff - Star Metal
+#cfa71c - Gold
+#b9b9b9 - Silver
+#a57164 - Bronze
+
+#d8b213 - Catfish Yellow - Malum
+#9C8AA5 - Mommie Amethyst - Potayto
+#03ca17 - Abooser Green - Tripp
+#bba7ff - Bratty Purple - Kirah
+#ff0000 - Dogfish Red - Ultus
+#88ecf8 - Dommie Blue - Tystan
+#3A97F0 - Spanking Blue - Kayllen
+#fc90a1 - Diverse Pink - Mei
+#7CBE81 - Girlfriend Green - Kara
+#A7F5A4 - Cubeslayer Green - Khen
+#f88379 - UnBearable Pink - Bears
+#e67e2e - Badmin Orange
+#7CB1BC - Jablue Blue - Goose
+
+#bdbdbd - Silver White
+#1c1c1c - Nero Black
+#e8c2d4 - Prim Pink

@@ -63,3 +63,25 @@
 - Marauder recipes should now all give and require the correct items
 - Corrected the stats on epic flawless nomad armors
 - Woden sighs
+
+1.1.0
+- Change: Added Yasmina to the Black Hand and Dogs of the Desert spawn table
+- Change: Reverted Obsidian Spear changes to fall in line with funcom balancing
+- Change: Serpent-man War Spears and The Staff of Epemitreus now ~actually~ have reach
+- Change: Increased Black Dragon Pike's Armor Pen to 0.0765
+- Change: Reduced Vaulting Pole Armor Pen to 0.0765
+- Change: Increased damage of Exceptional Acheronian Spear to 47
+- Change: Reverted Dragonbone Spear Armor Pen to vanilla values
+- Change: Increased Bonus Strength on the Lodestone Warhammer to +5
+- Change: Increased Stamina cost for the Lying Bastard Sword
+- Change: Yasmina no longer crafts Flawless Marauder Armor
+- Change: Marauder Armorer's no longer craft Exceptional Marauder Armor
+- Removed: Marauder Feats and Recipes since they are now redundant with fashionist
+- Removed: Marauder Armorer's from the spawn table
+- Removed: Enchantments of the Silent Legion feat/recipe since it is now redundant with fashionist
+- Removed: Scroll (Enchantments of the Silent Legion) from the dark library
+- New: Added 23 new dyes, admin spawn only
+- New: Added 5 dyes from the ISE mod (thanks Shendelzare!)
+- New: Explorer Bedroll which ignores land claim
+- New: Tavern Pillows, four pillows that work like normal bedrolls
+- New: Helmets of Fashion feat, three craftable invisible helmets that can be used to hide your helmet slot via fashionist
